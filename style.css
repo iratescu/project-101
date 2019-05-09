@@ -1,0 +1,25 @@
+html,body{
+  height: 100%;
+  margin:auto;
+}
+.container{
+  height: 100%;
+}
+
+.banner {
+  width: 100%;
+  height: 20%;
+  background-image:url("https://picjumbo.com/wp-content/uploads/ink-in-water-abstract-free-photo-1080x720.jpg");
+}
+.left{
+  float: left;
+  width: 50%;
+}
+.right{
+  float: right;
+  width: 50%;
+  }
+.left h1, .left h2, .unorderdlist{
+  font-family:serif;
+  font-style: oblique;
+}
